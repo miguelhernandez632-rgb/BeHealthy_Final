@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "632961504084",
+    "project_id": "behealthy-bafe1",
+    "storage_bucket": "behealthy-bafe1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632961504084:android:4aa71acecbd152fc772ec1",
+        "android_client_info": {
+          "package_name": "com.example.et0126behealthy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8cfa-QVaDQlqzU-OBUpXHPicaPRZ8ywk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
